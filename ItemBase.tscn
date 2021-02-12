@@ -1,0 +1,10 @@
+[gd_scene format=2]
+
+[node name="ItemBase" type="TextureRect"]
+margin_left = 17.0
+margin_top = 12.0
+margin_right = 17.0
+margin_bottom = 12.0
+__meta__ = {
+"_edit_use_anchors_": false
+}
